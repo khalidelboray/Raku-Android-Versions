@@ -1,0 +1,19 @@
+{
+  "name": "Android::Versions",
+  "description": "A Raku module to get Android versions ",
+  "version": "0.1",
+  "perl": "6.*",
+  "authors": [
+    "Khalid Elboray"
+  ],
+  "auth": "github:khalidelboray",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Android::Versions": "lib/Android/Versions.pm6"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "source-url": "Write me!"
+}
