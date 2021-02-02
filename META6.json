@@ -1,6 +1,6 @@
 {
   "name": "Android::Versions",
-  "description": "A Raku module to get Android versions ",
+  "description": "A Raku module to get Android versions",
   "version": "0.1",
   "perl": "6.*",
   "authors": [
@@ -15,5 +15,5 @@
   },
   "resources": [],
   "license": "Artistic-2.0",
-  "source-url": "Write me!"
+  "source-url": "https://github.com/khalidelboray/Raku-Android-Versions.git"
 }
